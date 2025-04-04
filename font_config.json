@@ -1,0 +1,38 @@
+[
+    {
+        "lang": "ja",
+        "fonts": [
+            {
+                "file": "../../product/fonts/Mejiro-Thin.ttf",
+                "weight": "100",
+                "style": "normal"
+            },
+            {
+                "file": "../../product/fonts/Mejiro-Light.ttf",
+                "weight": "300",
+                "style": "normal"
+            },
+            {
+                "file": "../../product/fonts/Mejiro-Regular.ttf",
+                "weight": "400",
+                "style": "normal"
+            },
+            {
+                "file": "../../product/fonts/Mejiro-Semibold.ttf",
+                "weight": "600",
+                "style": "normal"
+            },
+            {
+                "file": "../../product/fonts/Mejiro-Bold.ttf",
+                "weight": "700",
+                "style": "normal"
+            },
+            {
+                "file": "../../product/fonts/Mejiro-Extrabold.ttf",
+                "weight": "800",
+                "style": "normal"
+            }
+        ],
+        "priority": -50
+    }
+]
